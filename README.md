@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikshetSteh
 - 👀 I’m interested in computer since
-- 🌱 I’m currently learning unity, c++, assembly
+- 🌱 I’m currently learning unity, c++, java
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
