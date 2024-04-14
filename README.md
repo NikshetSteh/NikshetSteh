@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @NikshetSteh
-- 👀 I’m interested in computer since
+- 👀 I’m interested in computer science
